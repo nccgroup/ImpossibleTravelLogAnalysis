@@ -1,0 +1,47 @@
+#######################
+# Visual Studio files #
+#######################
+*.suo
+*.user
+*.sdf
+ipch/
+.vs/
+
+##################
+# Python Ness    #
+##################
+__pycache__/
+*.pyc
+
+##################
+# Compiled files #
+##################
+bin/
+obj/
+Release/
+Debug/
+*.dll
+*.exe
+*.pdb
+*.obj
+*.log
+*.tlog
+*.htm
+*.pch
+watchlist.db
+
+#####################
+# OS-specific files #
+#####################
+.DS_Store
+.DS_Store?
+._*
+.Spotlight-V100
+.Trashes
+Icon?
+ehthumbs.db
+Thumbs.db
+
+#####################
+# The geo IP db     #
+#####################
