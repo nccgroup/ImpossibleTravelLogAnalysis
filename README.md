@@ -15,7 +15,7 @@ With the following format
 ```
 
 Where the fields as structured as follows:
-* **When** is YYYY-MM-DD HH:MMM:SSS
+* **When** is YYYY-MM-DD HH:mm:SS
 * **User** is the username
 * **Event** is an authentication or other event you care about (only one type per .csv supported at the moment)
 * **IP** is an IPv4 address
