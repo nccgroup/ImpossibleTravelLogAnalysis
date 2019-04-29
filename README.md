@@ -23,6 +23,9 @@ Where the fields as structured as follows:
 A script to generate test data along with an example .csv can be found here:
 https://github.com/olliencc/Speed-of-light-test-data
 
+## Binary Releases
+We have compiled a binary version for Microsoft Windows which can be found on the releases tab
+
 ## Usage
 ```
 impossibletravel.py [csvfile]
