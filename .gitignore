@@ -46,3 +46,4 @@ Thumbs.db
 # The geo IP db     #
 #####################
 GeoLite2-City.mmdb
+geolite2DB/
