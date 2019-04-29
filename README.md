@@ -23,9 +23,6 @@ Where the fields as structured as follows:
 A script to generate test data along with an example .csv can be found here:
 https://github.com/olliencc/Speed-of-light-test-data
 
-## Binary Releases
-We have compiled a binary version for Microsoft Windows which can be found on the releases tab
-
 ## Usage
 ```
 impossibletravel.py [csvfile]
@@ -57,7 +54,7 @@ impossibletravel.py ..\Speed-of-light-test-data\sampledataexample.csv
 [!] user1528 had traveled on 2019-06-01 13:59:00 at speed 3645.914 m/s (13125.29 km/h) for 0.92 hrs
 ```
 
-## Windows Binary Released
+## Windows Binary Release
 A version compiled with pyinstaller to a single .exe can be found on the Releases here:
 https://github.com/nccgroup/ImpossibleTravelLogAnalysis/releases
 
