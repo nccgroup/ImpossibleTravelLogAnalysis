@@ -57,6 +57,22 @@ impossibletravel.py ..\Speed-of-light-test-data\sampledataexample.csv
 [!] user1528 had traveled on 2019-06-01 13:59:00 at speed 3645.914 m/s (13125.29 km/h) for 0.92 hrs
 ```
 
+## Windows Binary Released
+A version compiled with pyinstaller to a single .exe can be found on the Releases here:
+https://github.com/nccgroup/ImpossibleTravelLogAnalysis/releases
+
+This is used in the same way e.g.
+```
+..\output\impossibletravel.exe" ..\Speed-of-light-test-data\sampledataexample.csv
+[i] NCC Group Impossible Travel Analysis - 1.0
+[i] https://github.com/nccgroup/ImpossibleTravelLogAnalysis
+[!]  user621 had traveled on 2019-04-09 01:44:00 at speed 32909.547 m/s (118474.37 km/h) for 0.05 hrs
+[!] user9406 had traveled on 2019-04-11 11:03:00 at speed 7376.450 m/s (26555.22 km/h) for 0.23 hrs
+[!] user3027 had traveled on 2019-04-12 18:07:00 at speed 94516.879 m/s (340260.76 km/h) for 0.03 hrs
+[!] user6995 had traveled on 2019-04-20 16:47:00 at speed 4718.706 m/s (16987.34 km/h) for 1.10 hrs
+[!] user1566 had traveled on 2019-04-24 23:00:00 at speed 8512.756 m/s (30645.92 km/h) for 0.30 hrs
+```
+
 ## Requirements
 * See requirements.txt
 * The Maxmin GeoIP city database https://dev.maxmind.com/geoip/geoip2/geolite2/
