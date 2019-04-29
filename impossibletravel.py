@@ -1,6 +1,6 @@
 #
 # (c)2019 NCC Group Plc
-# Stephen van der Baan
+# Steven van der Baan
 # Released under AGPL
 # https://github.com/nccgroup/ImpossibleTravelLogAnalysis
 #

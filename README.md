@@ -75,7 +75,7 @@ This is used in the same way e.g.
 * The Maxmin GeoIP city database https://dev.maxmind.com/geoip/geoip2/geolite2/
 
 ## Author
-Stephen van der Baan
+Steven van der Baan
 
 ## License
 Released under AGPL - see LICENSE
